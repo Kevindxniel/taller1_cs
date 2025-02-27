@@ -54,7 +54,7 @@ class SeinenManga extends Manga {
 }
 
 
-public class prototype {
+public class prototype_Type {
     public static void main(String[] args) {
         // Crear instancias de ShonenManga y SeinenManga
         ShonenManga naruto = new ShonenManga("Naruto", "Action-packed story", "Naruto Uzumaki");

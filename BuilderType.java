@@ -53,7 +53,7 @@ class MageKit extends EquipmentKit {
 }
 
 // Clase Main con método main
-public class Main {
+public class BuilderType{
     public static void main(String[] args) {
         // Crear instancias de WarriorKit y MageKit
         EquipmentKit warriorKit = new WarriorKit();
@@ -64,3 +64,4 @@ public class Main {
         System.out.println(mageKit);
     }
 }
+
